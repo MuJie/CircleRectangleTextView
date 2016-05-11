@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleRectangleTextView">
+        <attr name="crt_strokeWidth" format="integer" />
+        <attr name="crt_strokeColor" format="reference|color" />
+        <attr name="crt_solidColor" format="reference|color" />
+    </declare-styleable>
+</resources>
